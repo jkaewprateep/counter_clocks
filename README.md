@@ -57,7 +57,7 @@ It is simply for all lines input training the next number is subtract of the pre
 
 ![Alt text](https://github.com/jkaewprateep/counter_clocks/blob/main/98.png?raw=true "Title")
 
-### The book ##
+### Book ##
 
 It is not my book but I think it is kind some some promotions, they added some tips when you reading you talking to librarians of the bookstore, conversation of knowledge desires never wrong in the same pace of good willing .
 
