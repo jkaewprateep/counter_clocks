@@ -1,6 +1,7 @@
 # counter_clocks
 series as counter clocks ( it is not accidents number ) found from book. it is explained about accumulators or acclerate that is how the Tensorflow Dense layer learning. Each line of number a bit different but significant with same scales of the interest create of next number in sequences can be predicts.
 
+## Sample input series ##
 ```
 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16
 0, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16
@@ -21,6 +22,7 @@ series as counter clocks ( it is not accidents number ) found from book. it is e
 0, 1, 2, 3, 4, 5, 6, 7, 8,  9, 10, 11, 12, 13, 14, 15
 ```
 
+## Sample Dense layer ##
 ```
 class MyDenseLayer(tf.keras.layers.Layer):
 	def __init__(self, num_outputs):
@@ -39,5 +41,9 @@ class MyDenseLayer(tf.keras.layers.Layer):
 	def call(self, inputs):
 		return tf.matmul(inputs, self.kernel) - 120
 ```
+## Files and directory ##
+1. sample.py : sample codes prove about the learning process.
+2. 98.png : result.
+3. README.md : read me file.
 
 ![Alt text](https://github.com/jkaewprateep/counter_clocks/blob/main/98.png?raw=true "Title")
