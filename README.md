@@ -56,3 +56,10 @@ class MyDenseLayer(tf.keras.layers.Layer):
 It is simply for all lines input training the next number is subtract of the previous number by one compare to the next line in order execution. This way the same as other series included picture, currrent Voltages change, current signals changed, text input in series, calculation problem and patterns match problems.
 
 ![Alt text](https://github.com/jkaewprateep/counter_clocks/blob/main/98.png?raw=true "Title")
+
+### The book ##
+
+It is not my book but I think it is kind some some promotions, they added some tips when you reading you talking to librarians of the bookstore, conversation of knowledge desires never wrong in the same pace of good willing
+
+![Alt text](https://github.com/jkaewprateep/Simple_encode_decode/blob/main/01.jpg?raw=true "Title")
+![Alt text](https://github.com/jkaewprateep/Simple_encode_decode/blob/main/02.jpg?raw=true "Title")
