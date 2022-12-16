@@ -1,5 +1,5 @@
 # counter_clocks
-series as counter clocks ( it is not accidents number ) found from book. 
+series as counter clocks ( it is not accidents number ) found from book. it is explained about accumulators or acclerate that is how the Tensorflow Dense layer learning. Each line of number a bit different but significant with same scales of the interest create of next number in sequences can be predicts.
 
 ```
 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16
